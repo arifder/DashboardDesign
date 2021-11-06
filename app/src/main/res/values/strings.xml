@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">DashboardDesign</string>
+    <string name="record">Record</string>
+    <string name="show_views">show Views</string>
+    <string name="more">more</string>
+    <string name="clients">Clients</string>
+    <string name="_395">395</string>
+    <string name="impacted">impacted</string>
+    <string name="_147">147</string>
+    <string name="following">Following</string>
+    <string name="_820">820</string>
+    <string name="_186">$186</string>
+    <string name="thin_face_needle">Thin Face needle</string>
+    <string name="north_sylvanland">North Sylvanland</string>
+    <string name="_10am_06pm">10am-06pm</string>
+    <string name="_225">$225</string>
+    <string name="hydro_lifting">Hydro Lifting</string>
+    <string name="south_lionel">South Lionel</string>
+    <string name="_09am_07pm">09am-07pm</string>
+    <string name="_180">$180</string>
+    <string name="eyelid_surgery">Eyelid Surgery</string>
+    <string name="_10am_08pm">10am-08pm</string>
+    <string name="_328">328</string>
+    <string name="hyaluronic_acid">Hyaluronic_acid</string>
+    <string name="new_benny">New Benny</string>
+    <string name="shot_views">Shot Views</string>
+    <string name="_340">$340</string>
+    <string name="hyalunoric_acid">Hyalunoric Acid</string>
+    <string name="_09am_09pm">09am-09pm</string>
+</resources>
